@@ -174,3 +174,4 @@ ADB Procedures Without Using a PC:
 ### You don't have to repeat this process unless you completely uninstall the app and reinstall it.
 
 
+adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTING.
